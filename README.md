@@ -1,0 +1,2 @@
+# Telemetr-a-para-vehiculo-Baja-SAE-UAM-2025
+Sistema de telemetría desarrollado para el vehículo Baja SAE UAM basado en ESP32, Raspberry Pi 5 y comunicación LoRa de largo alcance. El sistema permite transmitir, visualizar y almacenar variables del vehículo en tiempo real mediante Node-RED.
